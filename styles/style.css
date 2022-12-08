@@ -332,7 +332,7 @@ animation: noise-anim-2 3s infinite ease-in  alternate-reverse ;
   margin-top: 20px;
   margin-inline:auto ;
   padding: 5px;
-  background-image: url(/mi-portfolio/assets/estrellas.jpg);
+  background-image: url(/portfolio-FA/styles/estrellas.jpg);
   background-position:center;
   background-size: cover;
   border-radius:8px;
